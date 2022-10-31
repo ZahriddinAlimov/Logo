@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: antaro;
+}
+body {
+  background-color: #000;
+}
+body > div {
+  width: 430px;
+  height: 520px;
+}
